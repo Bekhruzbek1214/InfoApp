@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InfoApp</string>
+    <string name="scientist">Scientist</string>
+    <string name="politician">Politician</string>
+    <string name="poets">Poets</string>
+    <string name="writers">Writers</string>
+    <string name="actors">Actors</string>
+    <string name="athlete">Athlete</string>
+    <string name="leanardo_da_vince_dfghj_ffgh_xrxt_rt">Leanardo da Vince dfghj ffgh xrxt rt</string>
+    <string name="leanardo_da_vince">Leanardo da Vince</string>
+    <string name="todo">TODO</string>
+</resources>
